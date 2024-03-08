@@ -53,7 +53,7 @@ Open your browser and visit http://127.0.0.1:5173/ to view the application.
 
 # Login Page
 
-![Worldref](AAScreenshot 2024-03-08 125928](https://github.com/anshul-010/Hyperface_Calendar/assets/93611786/87140240-5be2-41bf-90c3-b27e404ae02a)
+![Worldref]((https://github.com/anshul-010/Hyperface_Calendar/assets/93611786/87140240-5be2-41bf-90c3-b27e404ae02a)
 
 # Sign Up Page
 
