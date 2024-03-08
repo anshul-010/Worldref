@@ -53,12 +53,27 @@ Open your browser and visit http://127.0.0.1:5173/ to view the application.
 
 # Login Page
 
-![Worldref]((https://github.com/anshul-010/Hyperface_Calendar/assets/93611786/87140240-5be2-41bf-90c3-b27e404ae02a)
+![Worldref](https://github.com/anshul-010/Hyperface_Calendar/assets/93611786/87140240-5be2-41bf-90c3-b27e404ae02a)
 
 # Sign Up Page
 
-![Worldref](AAScreenshot 2024-03-08 125954](https://github.com/anshul-010/Hyperface_Calendar/assets/93611786/cd06f7ba-7297-4dae-85c6-af480cda5b14)
+![Worldref](https://github.com/anshul-010/Hyperface_Calendar/assets/93611786/cd06f7ba-7297-4dae-85c6-af480cda5b14)
 
+#Home Page
+
+![Worldref](https://github.com/anshul-010/Hyperface_Calendar/assets/93611786/ae13c7f2-ea3d-43ca-8c31-147209490755)
+
+#Single Details Page
+
+![Worldref](https://github.com/anshul-010/Hyperface_Calendar/assets/93611786/89889b4a-304c-4e40-8468-097dc65394f2)
+
+#Tab View
+
+![Worldref](https://github.com/anshul-010/Hyperface_Calendar/assets/93611786/7261c793-9793-4c1e-99ea-1a79196e8a4b)
+
+#Mobile View
+
+![Worldref](https://github.com/anshul-010/Hyperface_Calendar/assets/93611786/f5de2ba8-7293-49ca-b8dd-1a609d4d6571)
 
 
 ## Demo
