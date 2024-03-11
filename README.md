@@ -6,12 +6,14 @@ This repository contains the code for a frontend assignment aimed at creating a 
 
 
 ## Features
+0. *Login as guest
+    you can log in as a guest without any credential by clicking on "login as guest" button  
 
 1. *Login & Sign Up:*
    user can authenticate themselves
 
 2. *Single Detail Page*
-   - user can get the details of particular product
+   - user can get the details of a particular product
 
 
 5. *Responsiveness:*
@@ -78,4 +80,4 @@ Open your browser and visit http://127.0.0.1:5173/ to view the application.
 
 ## Demo
 
-Check out the live demo on [Netlify](https://65eabccc601c524a3c167eef--creative-pegasus-22abf0.netlify.app/).
+Check out the live demo on [Netlify](https://65eed393aaf1ae2c78f268f8--lucent-haupia-4aa6a6.netlify.app/).
