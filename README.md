@@ -20,6 +20,8 @@ This repository contains the code for a frontend assignment aimed at creating a 
    - Application should be responsive for multiple screen sizes.
 
 
+#Live link(https://65eed393aaf1ae2c78f268f8--lucent-haupia-4aa6a6.netlify.app/)
+
 ## Tech Stack
 
 - HTML
